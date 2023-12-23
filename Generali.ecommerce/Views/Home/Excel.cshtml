@@ -1,0 +1,42 @@
+﻿
+
+@{
+    //ViewData["Title"] = "Home Page";
+}
+
+
+@model IEnumerable<ProductDTO>
+
+<div class="row ">
+    <div class="col-12 grid-margin">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Order Status</h4>
+                <div class="table-responsive">
+                    <table class="table" id="orderTable" style="color:wheat !important;">
+                        <thead>
+                            <tr>
+                                <th> Product Name </th>
+                                <th> Product Description </th>
+                                <th> Product Price </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+
+                            @foreach (ProductDTO item in Model)
+                            {
+                                <tr>
+                                    <td> @item.Name </td>
+                                    <td> @item.Description </td>
+                                    <td> @item.Price </td>
+                                </tr>
+                            }
+
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

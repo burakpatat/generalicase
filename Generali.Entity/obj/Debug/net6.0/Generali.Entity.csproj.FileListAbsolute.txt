@@ -1,0 +1,15 @@
+C:\Users\burak\OneDrive\Masaüstü\NCProjects\GeneraliCase\Generali.Entity\bin\Debug\net6.0\Generali.Entity.deps.json
+C:\Users\burak\OneDrive\Masaüstü\NCProjects\GeneraliCase\Generali.Entity\bin\Debug\net6.0\Generali.Entity.dll
+C:\Users\burak\OneDrive\Masaüstü\NCProjects\GeneraliCase\Generali.Entity\bin\Debug\net6.0\Generali.Entity.pdb
+C:\Users\burak\OneDrive\Masaüstü\NCProjects\GeneraliCase\Generali.Entity\bin\Debug\net6.0\Generali.Core.dll
+C:\Users\burak\OneDrive\Masaüstü\NCProjects\GeneraliCase\Generali.Entity\bin\Debug\net6.0\Generali.Core.pdb
+C:\Users\burak\OneDrive\Masaüstü\NCProjects\GeneraliCase\Generali.Entity\obj\Debug\net6.0\Generali.Entity.csproj.AssemblyReference.cache
+C:\Users\burak\OneDrive\Masaüstü\NCProjects\GeneraliCase\Generali.Entity\obj\Debug\net6.0\Generali.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\NCProjects\GeneraliCase\Generali.Entity\obj\Debug\net6.0\Generali.Entity.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\NCProjects\GeneraliCase\Generali.Entity\obj\Debug\net6.0\Generali.Entity.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\NCProjects\GeneraliCase\Generali.Entity\obj\Debug\net6.0\Generali.Entity.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\NCProjects\GeneraliCase\Generali.Entity\obj\Debug\net6.0\Generali.Entity.csproj.CopyComplete
+C:\Users\burak\OneDrive\Masaüstü\NCProjects\GeneraliCase\Generali.Entity\obj\Debug\net6.0\Generali.Entity.dll
+C:\Users\burak\OneDrive\Masaüstü\NCProjects\GeneraliCase\Generali.Entity\obj\Debug\net6.0\refint\Generali.Entity.dll
+C:\Users\burak\OneDrive\Masaüstü\NCProjects\GeneraliCase\Generali.Entity\obj\Debug\net6.0\Generali.Entity.pdb
+C:\Users\burak\OneDrive\Masaüstü\NCProjects\GeneraliCase\Generali.Entity\obj\Debug\net6.0\ref\Generali.Entity.dll

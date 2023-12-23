@@ -1,0 +1,87 @@
+﻿
+
+@{
+    //ViewData["Title"] = "Home Page";
+}
+
+
+@model Generali.Entity.DTO.ProductDTO
+
+<div class="row">
+    <div class="col-12 grid-margin stretch-card">
+        <div class="card corona-gradient-card">
+            <div class="card-body py-0 px-0 px-sm-3">
+                <div class="row align-items-center">
+                    <div class="col-4 col-sm-3 col-xl-2">
+                        <img src="~/template/assets/images/generali.png" class="gradient-corona-img img-fluid" alt="">
+                    </div>
+                    <div class="col-5 col-sm-7 col-xl-8 p-0">
+                        <h4 class="mb-1 mb-sm-0">Generali Case</h4>
+                        <p class="mb-0 font-weight-normal d-none d-sm-block">ürün satış ve stok takip !</p>
+                    </div>
+                    <div class="col-3 col-sm-2 col-xl-2 ps-0 text-center">
+                        <a href="http://localhost:51686/Service1.svc?singleWsdl" target="_blank"><button class="btn btn-outline-light btn-rounded get-started-btn">Web Services - WSDL Link</button></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Upload Product Data Manuel</h4>
+            <p class="card-description"> Upload Product Table </p>
+            <form asp-controller="Home" asp-action="Add" class="forms-sample" method="post">
+                <div class="form-group">
+                    <label asp-for="Name" for="exampleInputName1" style="color:burlywood!important">Product Name</label>
+                    <input asp-for="Name" type="text" class="form-control" id="exampleInputName1" placeholder="Product Name" style="color:wheat!important">
+                </div>
+                <div class="form-group">
+                    <label asp-for="Description" for="exampleInputName1" style="color:burlywood!important">Product Description</label>
+                    <input asp-for="Description" type="text" class="form-control" id="exampleInputName1" placeholder="Product Description" style="color:wheat!important">
+                </div>
+                <div class="form-group">
+                    <label asp-for="Price" for="exampleInputName1" style="color:burlywood!important">Product Price</label>
+                    <input asp-for="Price" type="text" class="form-control" id="exampleInputName1" placeholder="Product Price" style="color:wheat!important">
+                </div>
+                <div class="form-group">
+                    <label asp-for="Code" for="exampleInputName1" style="color:burlywood!important">Product Code</label>
+                    <input asp-for="Code" type="text" class="form-control" id="exampleInputName1" placeholder="Product Code" style="color:wheat!important">
+                </div>
+                <div class="form-group">
+                    <label style="color:burlywood!important">Product Image</label>
+                    <input type="file" name="img[]" class="file-upload-default">
+                    <div class="input-group col-xs-12">
+                        <input type="text" class="form-control file-upload-info" disabled placeholder="Upload Image">
+                        <span class="input-group-append">
+                            <button class="file-upload-browse btn btn-danger" type="button">Upload</button>
+                        </span>
+                    </div>
+                </div>
+                <button type="submit" class="btn btn-primary me-2">Submit</button>
+            </form>
+        </div>
+    </div>
+</div>
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Upload Product With Excel File</h4>
+            <p class="card-description"> Upload Product Excel File (Excel Data Reader & Writer) </p>
+            <form asp-controller="Home" asp-action="Excel" class="forms-sample" method="post" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label style="color:burlywood!important">Excel File</label>
+                    <div class="input-group col-xs-12">
+                        <input type="file" name="file" class="form-control file-upload-info" placeholder="Upload File">
+                        <span class="input-group-append">
+                            <button class="file-upload-browse btn btn-danger" type="button">Upload</button>
+                        </span>
+                    </div>
+                </div>
+                <button type="submit" class="btn btn-success me-2">Upload Excel Data To DB</button>
+            </form>
+        </div>
+    </div>
+</div>

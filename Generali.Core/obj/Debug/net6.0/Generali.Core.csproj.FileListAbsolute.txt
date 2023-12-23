@@ -1,0 +1,12 @@
+C:\Users\burak\OneDrive\Masaüstü\NCProjects\GeneraliCase\Generali.Core\bin\Debug\net6.0\Generali.Core.deps.json
+C:\Users\burak\OneDrive\Masaüstü\NCProjects\GeneraliCase\Generali.Core\bin\Debug\net6.0\Generali.Core.dll
+C:\Users\burak\OneDrive\Masaüstü\NCProjects\GeneraliCase\Generali.Core\bin\Debug\net6.0\Generali.Core.pdb
+C:\Users\burak\OneDrive\Masaüstü\NCProjects\GeneraliCase\Generali.Core\obj\Debug\net6.0\Generali.Core.csproj.AssemblyReference.cache
+C:\Users\burak\OneDrive\Masaüstü\NCProjects\GeneraliCase\Generali.Core\obj\Debug\net6.0\Generali.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\NCProjects\GeneraliCase\Generali.Core\obj\Debug\net6.0\Generali.Core.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\NCProjects\GeneraliCase\Generali.Core\obj\Debug\net6.0\Generali.Core.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\NCProjects\GeneraliCase\Generali.Core\obj\Debug\net6.0\Generali.Core.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\NCProjects\GeneraliCase\Generali.Core\obj\Debug\net6.0\Generali.Core.dll
+C:\Users\burak\OneDrive\Masaüstü\NCProjects\GeneraliCase\Generali.Core\obj\Debug\net6.0\refint\Generali.Core.dll
+C:\Users\burak\OneDrive\Masaüstü\NCProjects\GeneraliCase\Generali.Core\obj\Debug\net6.0\Generali.Core.pdb
+C:\Users\burak\OneDrive\Masaüstü\NCProjects\GeneraliCase\Generali.Core\obj\Debug\net6.0\ref\Generali.Core.dll
